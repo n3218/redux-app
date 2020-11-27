@@ -1,0 +1,11 @@
+body {
+  background-color: lightgray;
+}
+
+#app-container {
+  width: 600px;
+  background-color: white;
+  border: 3px solid darkgray;
+  margin: auto;
+  padding: 10px;
+}
